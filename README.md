@@ -60,7 +60,7 @@ Model Training:
 
   - Logistic Regression: O(n·d + d^2)
 
-KNN: Expensive at prediction time (O(n_train·d)).
+  - KNN: Expensive at prediction time (O(n_train·d)).
 
 6. Top Features in XGBoost
 
